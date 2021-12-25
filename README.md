@@ -1,1 +1,1 @@
-# hackerRankChallenges
+# hackerRankChallengesPrepKit
